@@ -5,8 +5,16 @@
 </head>
 <body>
 {% include menu.html %}
-<div class="container">
-    {{ content }}
+<div class="container body">
+    <div class="row">
+        <div class="col-sm-8">
+            {{ content }}
+            <br>
+        </div>
+        <div class="col-sm-4">
+            {% include sidebar.html %}
+        </div>
+    </div>
 </div>
 {% include footer.html %}
 </body>

@@ -42,6 +42,8 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
+##################################################
+
 exclude:
  - Gemfile
  - Gemfile.lock
@@ -50,4 +52,5 @@ exclude:
  - README.md
 
 cdn:
-permalink: /archivers/:title.html
+cdn_version: 1
+permalink: /:title.html
