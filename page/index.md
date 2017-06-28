@@ -4,6 +4,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: single
 menu: home
+permalink: /
 ---
 
 ![Nanjing](http://www.kandisheng.com/wp-content/uploads/2016/10/b3.jpg)
