@@ -55,3 +55,6 @@ exclude:
 cdn:
 cdn_version: 1
 permalink: /:title.html
+
+sass:
+    style: :compressed
