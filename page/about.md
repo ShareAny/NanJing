@@ -1,7 +1,7 @@
 ---
 layout: page
 menu: about
-title: About
+title: 关于
 permalink: /about/
 ---
 
