@@ -50,6 +50,7 @@ exclude:
  - CNAME
  - LICENSE
  - README.md
+ - run.bat
 
 cdn:
 cdn_version: 1
